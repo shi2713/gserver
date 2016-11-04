@@ -1,0 +1,31 @@
+{
+  "name": "gserver",
+  "version": "0.0.12",
+  "description": "Yet another freemarker server. Just for \"gome.com.cn\".",
+  "main": "index.js",
+  "bin": {
+    "gserver": "./bin/gserver.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freemarker",
+    "server"
+  ],
+  "author": {
+    "name": "kerwinzhang@foxmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "freemarker.js": "^1.2.1",
+    "liftoff": "^2.2.0",
+    "minimist": "^1.2.0",
+    "node-uuid": "^1.4.3",
+    "ssi": "^0.1.5"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "gserver@0.0.10",
+  "_shasum": "8642937c2291bf2a169eb87fd38da2122ffdb152",
+  "_from": "gserver@*"
+}

@@ -1,0 +1,37 @@
+{
+	"ftlDir"  : "C:\\Users\\zhangmeng-ds3\\Desktop\\fm-server"
+	,"cssDir" : "C:\\Users\\zhangmeng-ds3\\Desktop\\fm-server"
+	,"jsDir"  : "C:\\Users\\zhangmeng-ds3\\Desktop\\fm-server"
+	,"coverData": {
+		"cssServer": "/"
+		,"jsServer": "/"
+	}
+	,"rewrite":{
+		"/data/abc.jsp" : "ajax/index.json"
+		,"/data/add.jsp?abc=1" : "data/index.json"
+		,"/index.jsp": "index.ftl"
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

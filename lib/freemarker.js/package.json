@@ -1,0 +1,58 @@
+{
+  "name": "freemarker.js",
+  "version": "1.2.1",
+  "description": "Make freemarker available for node.js with FMPP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/ --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@coding.net:ijse/freemarker.js.git"
+  },
+  "keywords": [
+    "freemarker",
+    "fmpp",
+    "node.js"
+  ],
+  "bin": {
+    "fmpp": "./fmpp/fmpp"
+  },
+  "author": {
+    "name": "ijse"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.0",
+    "should": "^5.1.0"
+  },
+  "dependencies": {
+    "node-uuid": "^1.4.3"
+  },
+  "gitHead": "f3dcd17a854e3bc2f65a4139fc6f7ad8a32ecd55",
+  "_id": "freemarker.js@1.2.1",
+  "_shasum": "d7eda48d0c055fefd680214584352262c722b7d4",
+  "_from": "freemarker.js@*",
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "ijse",
+    "email": "i@ijser.cn"
+  },
+  "maintainers": [
+    {
+      "name": "ijse",
+      "email": "i@ijser.cn"
+    }
+  ],
+  "dist": {
+    "shasum": "d7eda48d0c055fefd680214584352262c722b7d4",
+    "size": 1656484,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/freemarker.js/download/freemarker.js-1.2.1.tgz"
+  },
+  "directories": {},
+  "publish_time": 1437894548162,
+  "_cnpm_publish_time": 1437894548162,
+  "_resolved": "https://registry.npm.taobao.org/freemarker.js/download/freemarker.js-1.2.1.tgz"
+}
